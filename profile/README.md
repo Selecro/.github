@@ -21,7 +21,7 @@ From beginners to pros, Selecro shares patterns, tutorials, and open-source tool
 ---
 
 ## 💬 Connect with Us
-- Website: [https://selecro.org](https://selecro.cz)  
+- Website: [https://selecro.cz](https://selecro.cz)  
 - Email: info@selecro.cz
 - Instagram: [@_selecro_](https://www.instagram.com/_selecro_)
 - Pinterest: [@selecro](https://www.pinterest.com/selecro)
